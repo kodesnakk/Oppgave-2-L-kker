@@ -23,3 +23,4 @@ Denne oppgaven skal løses sammen med en medelev gjennom parprogrammering, og de
 6. Klikk på "Stop"
 7. Klikk på "Deliver assignment"
 8. Til slutt velger du hvilken lærer som skal vurdere kodefilene deres
+co
